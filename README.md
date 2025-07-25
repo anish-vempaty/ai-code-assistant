@@ -1,6 +1,6 @@
 
 # 🧠 AI Code Assistant (Gemini Flash Edition)
-
+(EDIT: This was done before Google released Google CLI)
 A desktop-based AI-powered coding assistant that reviews your source code files using **Gemini 2.5 Flash API** and suggests improvements — all through a clean GUI, no CLI required.
 
 ---
